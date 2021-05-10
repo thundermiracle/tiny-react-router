@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "module": "commonjs",
+    "declaration": true,
+
+    "experimentalDecorators": true,
+    "jsx": "react",
+
+    "strict": true,
+
+    "moduleResolution": "node",
+    "esModuleInterop": true
+  }
+}

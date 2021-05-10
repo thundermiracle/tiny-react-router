@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "[markdown]": {
+    "editor.formatOnSave": false
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "eslint.workingDirectories": [
+    {
+      "directory": "./packages/tiny-react-router",
+      "changeProcessCWD": true
+    },
+  ]
+}
